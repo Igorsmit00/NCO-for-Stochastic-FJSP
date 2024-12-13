@@ -1,5 +1,5 @@
 # Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems
-This repo contains the code of our AAAI-paper "Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems".
+This repo contains the code of our paper "Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems", accepted at the 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25).
 The repo consists of 3 sub-repos. These sub-repos are used as follows:
 ## FJSP-DRL
 The FJSP-DRL folder contains the main code of our project. Here, we apply the scenario processing module to the dual attention network to create SPM-DAN.
