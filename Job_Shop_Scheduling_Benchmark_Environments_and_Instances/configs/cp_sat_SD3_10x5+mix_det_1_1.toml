@@ -1,0 +1,12 @@
+[instance]
+problem_instance = "/fjsp/SD3/10x5+mix/10x5+mix_001.fjs"
+stoch = false
+num_realizations = 1
+stoch_obj = "VaR"
+VaR_alpha = 0.95
+
+[solver]
+time_limit = 3600
+
+[output]
+plotting = false

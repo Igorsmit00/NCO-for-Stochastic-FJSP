@@ -1,0 +1,12 @@
+[instance]
+problem_instance = "/fjsp/SD3/10x5+mix/10x5+mix_001.fjs" # configure problem instance to be scheduled
+stoch = false # Set to True if you want to solve a stochastic instance using the OR-tools CP-SAT solver with samples average approximation
+num_realizations = 10 # Number of realizations to be used in the samples average approximation
+stoch_obj = "VaR" # Objective function to be used in the samples average approximation. Options: "mean", "VaR"
+VaR_alpha = 0.95 # Confidence level for the VaR objective function
+
+[solver]
+time_limit = 60 # time limit for the OR-tools CP-SAT solver, in seconds
+
+[output]
+plotting = false # draw ganttchart of found solution

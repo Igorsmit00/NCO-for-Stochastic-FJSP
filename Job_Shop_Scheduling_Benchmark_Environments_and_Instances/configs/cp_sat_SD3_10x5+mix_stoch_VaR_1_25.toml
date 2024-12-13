@@ -1,0 +1,13 @@
+[instance]
+problem_instance = "/fjsp/stoch/random/SD3/10x5+mix/10x5+mix_001.fjs"
+stoch = true
+num_realizations = 25
+stoch_obj = "VaR"
+VaR_alpha = 0.95
+
+[solver]
+time_limit = 3600
+stoch_obj = "VaR"
+
+[output]
+plotting = false
