@@ -1,5 +1,5 @@
 # Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems
-This repo contains the code of our paper **[Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems](https://arxiv.org/abs/2412.14052)**, accepted at the *39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)*.
+This repo contains the code of our paper **[Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems](https://ojs.aaai.org/index.php/AAAI/article/view/34870)**, accepted at the *39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)*.
 
 
 The repo consists of 3 sub-repos. These sub-repos are used as follows:
