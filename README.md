@@ -1,5 +1,5 @@
 # Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems
-This repo contains the code of our paper **[Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems](https://arxiv.org/abs/2412.14052)**, accepted at the *39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)*.
+This repo contains the code of our paper **[Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems](https://ojs.aaai.org/index.php/AAAI/article/view/34870)**, accepted at the *39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)*.
 
 
 The repo consists of 3 sub-repos. These sub-repos are used as follows:
@@ -18,15 +18,18 @@ The L2D folder contains the code for our preliminary experiment in which we appl
 Within each of these folders, there is a README file that explains the code in more detail.
 
 ## Reference
-To cite our work, please refer to the BibTeX below. This reference will be updated once the official AAAI proceedings are published.
+To cite our work, please refer to the BibTeX below.
 ```bibtex
-@misc{smit2024neuralcombinatorialoptimizationstochastic,
-      title={Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems}, 
-      author={Igor G. Smit and Yaoxin Wu and Pavel Troubil and Yingqian Zhang and Wim P.M. Nuijten},
-      year={2024},
-      eprint={2412.14052},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2412.14052}, 
+@inproceedings{smit2025neural,
+  title={Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems},
+  author={Smit, Igor G. and Wu, Yaoxin and Troubil, Pavel and Zhang, Yingqian and Nuijten, Wim P.M.},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={25},
+  pages={26678--26687},
+  year={2025},
+  month={4},
+  doi={10.1609/aaai.v39i25.34870},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/34870}
 }
 ```
